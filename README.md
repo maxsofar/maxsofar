@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats-maxsofar.vercel.app/api?username=maxsofar&count_private=true&show_icons=true&theme=dark)<br/>
+![Anurag's GitHub stats](https://github-readme-stats-maxsofar.vercel.app/api?username=maxsofar&count_private=true&show_icons=true&theme=maxs)<br/>
 ![Top Langs](https://github-readme-stats-maxsofar.vercel.app/api/top-langs/?username=maxsofar&custom_title=Language%20Stats&card_width=495&theme=maxs2&bg_color=1a1b27&title_color=fad000)
 
 <!---
