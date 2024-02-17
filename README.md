@@ -1,6 +1,5 @@
-![GitHub stats](https://github-readme-stats-maxsofar.vercel.app/api?username=maxsofar&count_private=true&show_icons=true&theme=maxs)<br />
-![Top Langs](https://github-readme-stats-maxsofar.vercel.app/api/top-langs/?username=maxsofar&custom_title=Language%20Stats&card_width=495&theme=maxs2)
-
+![GitHub stats](https://github-readme-stats-maxsofar.vercel.app/api?username=maxsofar&count_private=true&show_icons=true&theme=max_s)<br />
+![Top Langs](https://github-readme-stats-maxsofar.vercel.app/api/top-langs/?username=maxsofar&custom_title=Language%20Stats&card_width=495&theme=max_s2)
 <!---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
