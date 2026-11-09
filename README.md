@@ -56,5 +56,6 @@ Tools:              Git · Linux · Docker · Vercel · Xcode · Android Studio 
 
 📫 **maxshermant@gmail.com** · [linkedin.com/in/maxsofar](https://linkedin.com/in/maxsofar)
 
-![GitHub stats](https://github-readme-stats-fgf6-maxsofars-projects.vercel.app/api?username=maxsofar&count_private=true&show_icons=true&theme=max_s)
+![Max's GitHub Stats](https://github-readme-stats-fgf6-maxsofars-projects.vercel.app/api?username=maxsofar&count_private=true&show_icons=true&theme=max_s)
+
 ![Top Langs](https://github-readme-stats-fgf6-maxsofars-projects.vercel.app/api/top-langs/?username=maxsofar&custom_title=Language%20Stats&card_width=468&theme=maxs_2)
